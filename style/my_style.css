@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 50%;
+    padding: 2rem;
+}
+
+#original-text {
+    border: 1px solid black;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.text-lenght {
+    padding: 1rem 0;
+    display: inline-block;
+}
+
+#text-to-hide {
+    text-align: center;
+}
+
+#new-text {
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
